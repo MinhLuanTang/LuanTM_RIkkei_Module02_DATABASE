@@ -1,0 +1,1 @@
+phần ERD là ảnh jpg đính kèm thư mục này
